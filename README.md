@@ -10,8 +10,11 @@ PHP & PHP-CLI
 Composer
 
 1.Se ha utilizado el framework de Laravel 5.2 (PHP)
+
 2.Se ha de crear una base de datos en MySQL llamada productionsojavictor
+
 3.luego importamos el fichero sql con los datos ubicado en: scriptsBaseDeDatos/productionsojavictor.sql
+
 4.Se ha de crear un fichero de configuración llamado .env como .em.example pero con la siguiente configuración:
 
 PP_ENV=local APP_DEBUG=true APP_KEY=base64:yLP3ZWeGVTZEKuEDWqOZZj70k7Tp7mLVKOoSqYkGolc= APP_URL=http://localhost
