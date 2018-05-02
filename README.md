@@ -2,9 +2,13 @@
 Para empezar se ha de tener previamente intslados los siguientes componentes software:
 
 Apache (XAMPP)
+
 MySQL (XAMPP)
+
 PHP & PHP-CLI
+
 Composer
+
 Se ha utilizado el framework de Laravel 5.2 (PHP)
 
 Se ha de crear una base de datos en MySQL llamada productionsojavictor
