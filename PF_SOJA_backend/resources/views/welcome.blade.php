@@ -27,7 +27,7 @@
                 <div class="col-lg-12">
                     <h3>Informe:</h3>
                     <ul>
-                        <li><strong>Análisi de los datos:</strong> Se ha elegido los datos de epoxrtación de soja de los estados de USA a China sobre los estados que más Soja exportan a China.</li>
+                        <li><strong>Análisi de los datos:</strong> Se ha elegido los datos de producción de soja de los estados de USA sobre los estados que más Soja exportan a China.</li>
                         <li><strong>Justificación del gráfico:</strong> Estados Unidos emitió la 'investigación 301' el 23 de marzo, añadiendo un arancel de importación del 25% a 1.300 exportaciones chinas. El 3 de abril, el gobierno chino emitió una política tarifaria de represalia e impuso un arancel del 25% sobre las exportaciones de soja china, automóviles y trigo a los Estados Unidos. En este sentido, la guerra comercial entre China y los Estados Unidos se inició oficialmente.
                           <br/>
                         Esta visualización se usa para demostrar la producción total de soja en todos los continentes de los Estados Unidos. Esto facilitará el análisis futuro de la tendencia positiva de la guerra comercial y la tasa de apoyo de los votantes en los Estados Unidos.</li>
